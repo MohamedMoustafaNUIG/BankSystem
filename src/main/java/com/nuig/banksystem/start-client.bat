@@ -1,0 +1,1 @@
+java -cp /Users/mmoustafa/workspace/DistributedSystems/assignment1/BankSystem/src/main/java/com/nuig/banksystem -J-Djava.rmi.server.codebase=file:/Users/mmoustafa/workspace/DistributedSystems/assignment1/BankSystem/src/main/java/

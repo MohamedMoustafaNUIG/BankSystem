@@ -1,0 +1,1 @@
+java -cp /Users/mmoustafa/workspace/DistributedSystems/assignment1/BankSystem/src/main/java/com/nuig/banksystem -Djava.security.policy=C:/Users/mmoustafa/workspace/DistributedSystems/week1/rmisample/server.policy
