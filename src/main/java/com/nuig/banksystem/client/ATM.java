@@ -1,5 +1,7 @@
 package com.nuig.banksystem.client;
 
+import com.nuig.banksystem.server.Statement;
+
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 

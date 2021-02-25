@@ -22,7 +22,7 @@ public class Bank implements BankInterface {
         // implementation code
     }
     public Statement getStatement(Date from, Date to) throws RemoteException, InvalidSession {
-        // implementation code
+        return new BankStatement();
     }
     public static void main(String args[]) throws Exception {
         // initialise Bank server - see sample code in the notes and online RMI tutorials for details
